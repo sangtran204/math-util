@@ -10,6 +10,6 @@ of math methods found in JDK Math class
 
 ### Connect me via:
 1. [Facebook](https://www.facebook.com/anhsang.tranngoc)
-2. [Email](mailto: currykobejames@gmail.com)
+2. [Email](mailto:currykobejames@gmail.com)
 
 #### © 2020 by sang | FPT University, HCMC
